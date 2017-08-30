@@ -1,0 +1,8 @@
+*.pyc
+*.tar.gz
+*~
+*.user
+doc
+TAGS
+/build
+/devel

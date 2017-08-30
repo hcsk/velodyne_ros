@@ -1,0 +1,2 @@
+velodyne_driver contains gps/imu driver;
+publish topic with same ros time.
